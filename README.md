@@ -10,15 +10,18 @@
 코틀린 완벽 가이드 : 알렉세이 세두노프 지음 | 오현석 옮김
 
 ## 📍 목표
-- 코틀린 기봄 개념 익히기
+- 코틀린 기본 개념 익히기
 
 ## 💻 참여자
 
 <table>
  <tr>
     <td align="center"><a href="https://github.com/ch200203"><img src="https://avatars.githubusercontent.com/ch200203" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Koobonhyeok"><img src="https://avatars.githubusercontent.com/Koobonhyeok" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/ch200203"><b>@ch200203</b></a></td>
+    <td align="center"><a href="https://github.com/Koobonhyeok"><b>@Koobonhyeok</b></a></td>
   </tr>
+ 
 </table>
